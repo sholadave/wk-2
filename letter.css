@@ -1,0 +1,18 @@
+h2{
+    color: crimson;
+}
+p{
+    background-color: magenta;
+}
+li:first-child{
+    color: blue;
+}
+#EG{
+    color: blue;
+}
+.MSD{
+    color: blue;
+}
+dd{
+    background-color: cyan;
+}
