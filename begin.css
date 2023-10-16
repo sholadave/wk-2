@@ -1,0 +1,24 @@
+main> p{
+    color: aquamarine;
+}
+
+main p{
+    color: purple;
+}
+*{
+    color: blue;
+}
+*{
+    color: green;
+}
+body p{color: purple;
+
+}
+h2,h3{background-color: black;
+}
+h2+h3{
+    background-color: coral;
+}
+h2~h3{
+    background-color: blue;
+}
